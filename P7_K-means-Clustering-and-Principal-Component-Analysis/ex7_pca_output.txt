@@ -1,0 +1,135 @@
+>> ex7_pca
+Visualizing example dataset for PCA.
+
+Program paused. Press enter to continue.
+
+Running PCA on example dataset.
+
+Top eigenvector:
+ U(:,1) = -0.707107 -0.707107
+
+(you should expect to see -0.707107 -0.707107)
+Program paused. Press enter to continue.
+
+Dimension reduction on example dataset.
+
+Projection of the first example: 1.481274
+
+(this value should be about 1.481274)
+
+Approximation of the first example: -1.047419 -1.047419
+
+(this value should be about  -1.047419 -1.047419)
+
+Program paused. Press enter to continue.
+
+Loading face dataset.
+
+Program paused. Press enter to continue.
+
+Running PCA on face dataset.
+(this might take a minute or two ...)
+
+Program paused. Press enter to continue.
+
+Dimension reduction for face dataset.
+
+The projected data Z has a size of: 5000 100
+
+Program paused. Press enter to continue.
+
+Visualizing the projected (reduced dimension) faces.
+
+Program paused. Press enter to continue.
+
+Checking How Much Precentage Variance Retained.....
+
+First Approach to calculate variance retained....
+
+When K is 100, Then 93.19 percentage Variance Retained .
+
+Second Approach to calculate variance retained....
+
+When K is 100, Then 93.19 percentage Variance Retained.
+
+Program paused. Press enter to continue.
+K-Means iteration 1/10...
+K-Means iteration 2/10...
+K-Means iteration 3/10...
+K-Means iteration 4/10...
+K-Means iteration 5/10...
+K-Means iteration 6/10...
+K-Means iteration 7/10...
+K-Means iteration 8/10...
+K-Means iteration 9/10...
+K-Means iteration 10/10...
+Program paused. Press enter to continue.
+Program paused. Press enter to continue.
+>> ex7_pca
+Visualizing example dataset for PCA.
+
+Program paused. Press enter to continue.
+
+Running PCA on example dataset.
+
+Top eigenvector:
+ U(:,1) = -0.707107 -0.707107
+
+(you should expect to see -0.707107 -0.707107)
+Program paused. Press enter to continue.
+
+Dimension reduction on example dataset.
+
+Projection of the first example: 1.481274
+
+(this value should be about 1.481274)
+
+Approximation of the first example: -1.047419 -1.047419
+
+(this value should be about  -1.047419 -1.047419)
+
+Program paused. Press enter to continue.
+
+Loading face dataset.
+
+Program paused. Press enter to continue.
+
+Running PCA on face dataset.
+(this might take a minute or two ...)
+
+Program paused. Press enter to continue.
+
+Dimension reduction for face dataset.
+
+The projected data Z has a size of: 5000 100
+
+Program paused. Press enter to continue.
+
+Visualizing the projected (reduced dimension) faces.
+
+Program paused. Press enter to continue.
+
+Checking How Much Precentage Variance Retained.....
+
+First Approach to calculate variance retained....
+
+When K is 100, Then 93.19 percentage Variance Retained .
+
+Second Approach to calculate variance retained....
+
+When K is 100, Then 93.19 percentage Variance Retained.
+
+Program paused. Press enter to continue.
+K-Means iteration 1/10...
+K-Means iteration 2/10...
+K-Means iteration 3/10...
+K-Means iteration 4/10...
+K-Means iteration 5/10...
+K-Means iteration 6/10...
+K-Means iteration 7/10...
+K-Means iteration 8/10...
+K-Means iteration 9/10...
+K-Means iteration 10/10...
+Program paused. Press enter to continue.
+Program paused. Press enter to continue.
+>>
