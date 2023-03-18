@@ -1,0 +1,1026 @@
+
+
+>>ex5
+
+Loading and Visualizing Data ...
+Program paused. Press enter to continue.
+Cost at theta = [1 ; 1]: 303.993192
+(this value should be about 303.993192)
+Program paused. Press enter to continue.
+Gradient at theta = [1 ; 1]:  [-15.303016; 598.250744]
+(this value should be about [-15.303016; 598.250744])
+Program paused. Press enter to continue.
+Iteration     2 | Cost: 2.237391e+01
+Program paused. Press enter to continue.
+Program paused. Press enter to continue.
+warning: division by zero.944305e-31
+warning: called from
+    fmincg at line 102 column 12
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero.000000e+00
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+
+Iteration     3 | Cost: 9.860761e-32
+Iteration     7 | Cost: 3.286595e+00
+Iteration    30 | Cost: 2.842678e+00
+Iteration    23 | Cost: 1.315405e+01
+Iteration    29 | Cost: 1.944396e+01
+Iteration    15 | Cost: 2.009852e+01
+warning: division by zero.813526e+01
+warning: called from
+    fmincg at line 102 column 12
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 120 column 24
+Iteration    42 | Cost: 1.817286e+01
+Iteration    10 | Cost: 2.260941e+01
+Iteration    17 | Cost: 2.326146e+01
+Iteration    10 | Cost: 2.431725e+01
+Iteration     2 | Cost: 2.237391e+01
+# Training Examples     Train Error     Cross Validation Error
+        1               0.000000        205.121096
+        2               0.000000        110.300366
+        3               3.286595        45.010231
+        4               2.842678        48.368911
+        5               13.154049       35.865165
+        6               19.443963       33.829962
+        7               20.098522       31.970986
+        8               18.172859       30.862446
+        9               22.609405       31.135998
+        10              23.261462       28.936207
+        11              24.317250       29.551432
+        12              22.373906       29.433818
+Program paused. Press enter to continue.
+Normalized Training Example 1:
+  1.000000
+  -0.362141
+  -0.755087
+  0.182226
+  -0.706190
+  0.306618
+  -0.590878
+  0.344516
+  -0.508481
+
+Program paused. Press enter to continue.
+Iteration   400 | Cost: 7.724999e-02
+warning: division by zero.000000e+00
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+
+warning: division by zero.000000e+00
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+
+Iteration    28 | Cost: 1.068249e-31
+Iteration     8 | Cost: 1.214870e-27
+Iteration   400 | Cost: 3.011264e-19
+Iteration   400 | Cost: 1.368563e-07
+warning: division by zero.107198e+01
+warning: called from
+    fmincg at line 102 column 12
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 193 column 24
+Iteration   400 | Cost: 1.867230e-04
+Iteration   400 | Cost: 1.251312e-02
+Iteration   400 | Cost: 3.050025e-02
+Iteration   400 | Cost: 5.491540e-02
+Iteration   400 | Cost: 7.497969e-02
+Iteration   400 | Cost: 7.724999e-02
+Polynomial Regression (lambda = 0.000000)
+
+# Training Examples     Train Error     Cross Validation Error
+        1               0.000000        160.721900
+        2               0.000000        160.121510
+        3               0.000000        61.754825
+        4               0.000000        61.928895
+        5               0.000000        6.597864
+        6               0.000000        10.638375
+        7               0.000187        26.081204
+        8               0.012513        15.062413
+        9               0.030500        15.370321
+        10              0.054915        11.115843
+        11              0.074980        7.570165
+        12              0.077250        7.768661
+Program paused. Press enter to continue.
+Iteration   400 | Cost: 7.724999e-02
+Iteration   400 | Cost: 1.757723e-01
+Iteration   400 | Cost: 2.499341e-01
+Iteration   400 | Cost: 3.850629e-01
+Iteration   336 | Cost: 6.692749e-01
+Iteration   182 | Cost: 1.443470e+00
+Iteration   118 | Cost: 3.101591e+00
+warning: division by zero.613078e+01
+warning: called from
+    fmincg at line 102 column 12
+    trainLinearReg at line 19 column 13
+    validationCurve at line 45 column 15
+    ex5 at line 218 column 35
+Iteration    62 | Cost: 7.268148e+00
+Iteration    36 | Cost: 1.586769e+01
+Iteration    25 | Cost: 3.337220e+01
+lambda          Train Error     Validation Error
+ 0.000000       0.077250        7.768661
+ 0.001000       0.123217        11.292647
+ 0.003000       0.171279        16.351610
+ 0.010000       0.221502        16.946711
+ 0.030000       0.281851        12.828884
+ 0.100000       0.459318        7.587013
+ 0.300000       0.921760        4.636833
+ 1.000000       2.076188        4.260625
+ 3.000000       4.901351        3.822907
+ 10.000000      16.092213       9.945509
+Program paused. Press enter to continue.
+Poly_Test_Cost at (lambda(min_validation_error) = 3): 218.505986
+
+Program paused. Press enter to continue.
+Iteration    36 | Cost: 1.884685e+01
+warning: division by zero.000000e+006
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+warning: division by zero
+warning: called from
+    fmincg at line 124 column 8
+    trainLinearReg at line 19 column 13
+    learningCurve at line 57 column 15
+    ex5 at line 268 column 24
+
+Iteration    19 | Cost: 3.514832e+01
+Iteration    28 | Cost: 3.295151e+01
+Iteration    22 | Cost: 2.481800e+01
+Iteration    43 | Cost: 2.015874e+01
+Iteration    42 | Cost: 1.817130e+01
+Iteration    27 | Cost: 1.663439e+01
+Iteration    43 | Cost: 1.588093e+01
+Iteration    32 | Cost: 1.960310e+01
+Iteration    36 | Cost: 1.884685e+01
+Polynomial Regression (lambda = 3.000000)
+
+# Training Examples     Train Error     Cross Validation Error
+        1               0.000000        139.604500
+        2               21.224117       39.885021
+        3               24.383790       37.250914
+        4               18.554052       33.889809
+        5               14.559595       34.455443
+        6               12.819847       34.984599
+        7               11.710743       36.004032
+        8               10.539849       29.615248
+        9               7.651884        6.685660
+        10              5.784268        5.058953
+Program paused. Press enter to continue.
