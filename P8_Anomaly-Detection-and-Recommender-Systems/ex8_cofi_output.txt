@@ -1,0 +1,140 @@
+>> ex8_cofi
+Loading movie ratings dataset.
+
+Average rating for movie 1 (Toy Story): 3.878319 / 5
+
+
+Program paused. Press enter to continue.
+Cost at loaded parameters: 22.224604
+(this value should be about 22.22)
+
+Program paused. Press enter to continue.
+
+Checking Gradients (without regularization) ...
+   4.04576   4.04576
+  -5.41551  -5.41551
+   0.00000   0.00000
+  -2.26734  -2.26734
+  -1.49121  -1.49121
+   3.26618   3.26618
+   0.00000   0.00000
+   3.08472   3.08472
+  -5.58350  -5.58350
+   7.55347   7.55347
+   0.00000   0.00000
+   5.98051   5.98051
+   0.63390   0.63390
+  -1.61487  -1.61487
+  -4.93500  -4.93500
+   2.91201   2.91201
+  -0.11433  -0.11433
+  -2.56634  -2.56634
+   1.68191   1.68191
+   4.36255   4.36255
+  -1.96063  -1.96063
+  -0.63531  -0.63531
+  -0.32788  -0.32788
+   0.80730   0.80730
+   1.24217   1.24217
+  -0.36867  -0.36867
+  -0.13489  -0.13489
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
+If your cost function implementation is correct, then
+the relative difference will be small (less than 1e-9).
+
+Relative Difference: 6.53058e-13
+
+Program paused. Press enter to continue.
+Cost at loaded parameters (lambda = 1.5): 31.344056
+(this value should be about 31.34)
+
+Program paused. Press enter to continue.
+
+Checking Gradients (with regularization) ...
+   2.044716   2.044716
+  -4.298501  -4.298501
+  -3.988502  -3.988502
+   1.513375   1.513375
+  -1.235309  -1.235309
+  -0.198617  -0.198617
+  -4.181395  -4.181395
+   0.081820   0.081820
+  -8.549181  -8.549181
+   3.790153   3.790153
+   5.404884   5.404884
+  -3.954311  -3.954311
+  -1.438897  -1.438897
+  -4.044008  -4.044008
+  -2.879457  -2.879457
+   2.079593   2.079593
+  -9.240097  -9.240097
+   0.701883   0.701883
+   0.579458   0.579458
+  -0.337377  -0.337377
+   0.140937   0.140937
+  -3.960537  -3.960537
+   5.170833   5.170833
+   2.369957   2.369957
+   4.661819   4.661819
+   0.507938   0.507938
+   9.106806   9.106806
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
+If your cost function implementation is correct, then
+the relative difference will be small (less than 1e-9).
+
+Relative Difference: 2.22466e-12
+
+Program paused. Press enter to continue.
+
+
+New user ratings:
+Rated 4 for Toy Story (1995)
+Rated 3 for Twelve Monkeys (1995)
+Rated 5 for Usual Suspects, The (1995)
+Rated 4 for Outbreak (1995)
+Rated 5 for Shawshank Redemption, The (1994)
+Rated 3 for While You Were Sleeping (1995)
+Rated 5 for Forrest Gump (1994)
+Rated 2 for Silence of the Lambs, The (1991)
+Rated 4 for Alien (1979)
+Rated 5 for Die Hard 2 (1990)
+Rated 5 for Sphere (1998)
+
+Program paused. Press enter to continue.
+
+Training collaborative filtering...
+Iteration   100 | Cost: 3.896033e+04
+Recommender system learning completed.
+
+Program paused. Press enter to continue.
+
+Top recommendations for you:
+Predicting rating 5.0 for movie Someone Else's America (1995)
+Predicting rating 5.0 for movie Marlene Dietrich: Shadow and Light (1996)
+Predicting rating 5.0 for movie Prefontaine (1997)
+Predicting rating 5.0 for movie Santa with Muscles (1996)
+Predicting rating 5.0 for movie Aiqing wansui (1994)
+Predicting rating 5.0 for movie They Made Me a Criminal (1939)
+Predicting rating 5.0 for movie Entertaining Angels: The Dorothy Day Story (1996)
+Predicting rating 5.0 for movie Star Kid (1997)
+Predicting rating 5.0 for movie Saint of Fort Washington, The (1993)
+Predicting rating 5.0 for movie Great Day in Harlem, A (1994)
+
+
+Original ratings provided:
+Rated 4 for Toy Story (1995)
+Rated 3 for Twelve Monkeys (1995)
+Rated 5 for Usual Suspects, The (1995)
+Rated 4 for Outbreak (1995)
+Rated 5 for Shawshank Redemption, The (1994)
+Rated 3 for While You Were Sleeping (1995)
+Rated 5 for Forrest Gump (1994)
+Rated 2 for Silence of the Lambs, The (1991)
+Rated 4 for Alien (1979)
+Rated 5 for Die Hard 2 (1990)
+Rated 5 for Sphere (1998)
+>>

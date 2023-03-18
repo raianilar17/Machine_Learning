@@ -1,0 +1,30 @@
+>> ex8
+
+
+Visualizing example dataset for outlier detection.
+
+Program paused. Press enter to continue.
+Visualizing Gaussian fit.
+
+Program paused. Press enter to continue.
+warning: division by zero
+warning: called from
+    selectThreshold at line 32 column 7
+    ex8 at line 78 column 13
+Best epsilon found using cross-validation: 8.990853e-05
+Best F1 on Cross Validation Set:  0.875000
+   (you should see a value epsilon of about 8.99e-05)
+   (you should see a Best F1 value of  0.875000)
+
+Program paused. Press enter to continue.
+warning: division by zero
+warning: called from
+    selectThreshold at line 32 column 7
+    ex8 at line 119 column 13
+
+Best epsilon found using cross-validation: 1.377229e-18
+Best F1 on Cross Validation Set:  0.615385
+   (you should see a value epsilon of about 1.38e-18)
+   (you should see a Best F1 value of 0.615385)
+# Outliers found: 117
+
