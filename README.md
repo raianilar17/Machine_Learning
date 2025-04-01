@@ -12,3 +12,4 @@ Build projects supervised learning (multiple linear regression, logistic regress
 - Project 7: K-means Clustering and Principal Component Analysis
 - Project 8: Anomaly Detection and Recommender Systems
 - Project 9: Range Simulation of E Bikes
+- Project 10: Decision Trees
