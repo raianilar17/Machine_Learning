@@ -5,7 +5,7 @@ Designed and implemented projects across a broad range of machine learning domai
 Adopted industry best practices inspired by leading AI and ML innovations in Silicon Valley, including:
 - Rigorous model **evaluation and hyperparameter tuning** for performance optimization.
 - Emphasis on a **data-centric approach** to enhance model accuracy and generalization.
-- Exposure to end-to-end ML workflows with a focus on scalability, maintainability, and real-world applicability.
+- Exposure to **end-to-end ML workflows** with a focus on scalability, maintainability, and real-world applicability.
 
 ## Applied Learning Project
 - **Supervised Learning**
